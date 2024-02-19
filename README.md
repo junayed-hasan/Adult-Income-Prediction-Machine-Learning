@@ -29,5 +29,13 @@ The following shows the dataset details and descriptions:
 
 ## Analysis Goals
  Through this comprehensive approach, we aim to not only prepare the dataset for predictive modeling but also uncover key insights into the factors that influence an individual's income level. This analysis serves as a blueprint for data preprocessing and visualization strategies that are applicable across a wide range of data science projects.
+ 
  Dataset description: https://archive.ics.uci.edu/dataset/2/adult
+ 
  Dataset link: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
+
+## Contributing
+We welcome contributions! Please read our contributing guidelines to learn how you can contribute to this project.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.

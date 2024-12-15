@@ -53,7 +53,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-[Include your contact information or link to your GitHub profile]
+Email: junayedhasan100@gmail.com
+
 
 ---
 
